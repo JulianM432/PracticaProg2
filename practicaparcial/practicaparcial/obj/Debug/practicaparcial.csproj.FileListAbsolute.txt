@@ -1,0 +1,10 @@
+C:\Users\TUP\Desktop\Clases\clase 1010\practicaparcial\practicaparcial\obj\Debug\practicaparcial.csproj.AssemblyReference.cache
+C:\Users\TUP\Desktop\Clases\clase 1010\practicaparcial\practicaparcial\obj\Debug\practicaparcial.Form1.resources
+C:\Users\TUP\Desktop\Clases\clase 1010\practicaparcial\practicaparcial\obj\Debug\practicaparcial.Properties.Resources.resources
+C:\Users\TUP\Desktop\Clases\clase 1010\practicaparcial\practicaparcial\obj\Debug\practicaparcial.csproj.GenerateResource.cache
+C:\Users\TUP\Desktop\Clases\clase 1010\practicaparcial\practicaparcial\obj\Debug\practicaparcial.csproj.CoreCompileInputs.cache
+C:\Users\TUP\Desktop\Clases\clase 1010\practicaparcial\practicaparcial\bin\Debug\practicaparcial.exe.config
+C:\Users\TUP\Desktop\Clases\clase 1010\practicaparcial\practicaparcial\bin\Debug\practicaparcial.exe
+C:\Users\TUP\Desktop\Clases\clase 1010\practicaparcial\practicaparcial\bin\Debug\practicaparcial.pdb
+C:\Users\TUP\Desktop\Clases\clase 1010\practicaparcial\practicaparcial\obj\Debug\practicaparcial.exe
+C:\Users\TUP\Desktop\Clases\clase 1010\practicaparcial\practicaparcial\obj\Debug\practicaparcial.pdb
